@@ -1,0 +1,10 @@
+
+<?
+echo "sending email";
+<<<<<<< HEAD
+echo "another email"
+ echo "third line from email";
+
+=======
+?>
+>>>>>>> 12a2370d2df4b65a4bcff77e03d18322e475e62c
